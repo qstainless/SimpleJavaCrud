@@ -1,7 +1,7 @@
 /*
  * @author Guillermo Castaneda Echegaray
  * @version 0.6
- * @course COP 2805-23360
+ * @course COP 2805C-23360
  * @instructor Jeho Park
  *
  * Program with basic CRUD functionality: Creates (inserts), Reads (views),
