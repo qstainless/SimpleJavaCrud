@@ -296,7 +296,7 @@ public class SimpleJavaCrud extends JApplet {
             String connectionURL = "jdbc:mysql://localhost:3306/";
             connection = DriverManager.getConnection(
                     connectionURL + databaseName + "?useSSL=false", databaseUser, databasePass);
-            System.out.println(connection);
+            // System.out.println(connection);
         } catch (ClassNotFoundException ex) {
             JOptionPane.showConfirmDialog(
                     null, "MySQL Driver not found.\nPlease install and run the program " +
